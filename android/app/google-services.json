@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750319560237",
+    "project_id": "meetup-fe2dc",
+    "storage_bucket": "meetup-fe2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750319560237:android:0d4118571ee0d534cbfaa4",
+        "android_client_info": {
+          "package_name": "com.example.meetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750319560237-c8msd6riavshug7q2kvmo29ughip18mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meetup",
+            "certificate_hash": "053df6b0101941e276265a53b782640f6bb3e1b8"
+          }
+        },
+        {
+          "client_id": "750319560237-erbpbnq66oh143gcubqbu3thrpmhcin8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqwusJnXuvL4GijDqnuVfCHYTnWDBSRGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750319560237-erbpbnq66oh143gcubqbu3thrpmhcin8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
